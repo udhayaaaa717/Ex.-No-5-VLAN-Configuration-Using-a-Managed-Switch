@@ -61,10 +61,19 @@ Switch(config-if-range)# exit<br>
 ________________________________________
 # Output (Screenshots)
 •	VLAN configuration on switch<br>
+<img width="1600" height="1000" alt="WhatsApp Image 2026-10-29 at 3 55 48 PM" src="https://github.com/user-attachments/assets/ffae44bc-da50-48dc-a065-51db01fbdce0" />
+
+
 •	PC IP settings<br>
+<img width="1600" height="1000" alt="WhatsApp Image 2026-10-29 at 3 55 55 PM" src="https://github.com/user-attachments/assets/61882fbf-2d65-4017-9a8b-0b31605d53ed" />
+
+
 •	Successful ping between PCs in the same VLAN<br>
+<img width="1600" height="1000" alt="WhatsApp Image 2026-10-29 at 3 56 00 PM" src="https://github.com/user-attachments/assets/cd310787-bcb8-4a34-be5f-f52ff73959ce" />
+
 •	Failed ping between PCs in different VLANs<br>
-________________________________________
+_<img width="1600" height="1000" alt="WhatsApp Image 2026-10-29 at 3 56 06 PM" src="https://github.com/user-attachments/assets/f56af8f6-2a2d-4d92-8bfd-d524f1af5e4d" />
+_______________________________________
 # Result
 Successfully created and configured VLANs on a managed switch. Verified that only PCs within the same VLAN could communicate with each other.
 
